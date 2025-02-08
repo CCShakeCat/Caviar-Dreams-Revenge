@@ -1,0 +1,50 @@
+{
+
+  "spec": 1,
+
+  "name": "Caviar Dreams Font Pack",
+
+  "previewText": "Simple and straight to the point - Pack made by CCShakeCat",
+
+  "main": {
+
+      "ABCGintoNord-ExtraBold": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Bold.ttf",
+
+      "ggsans-Bold": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Bold.ttf",
+
+      "ggsans-BoldItalic": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_BoldItalic.ttf",
+
+      "ggsans-ExtraBold": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Bold.ttf",
+
+      "ggsans-ExtraBoldItalic": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_BoldItalic.ttf",
+
+      "ggsans-Medium.ttf": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams.ttf",
+
+      "ggsans-MediumItalic": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Italic.ttf",
+
+      "ggsans-Normal": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams.ttf",
+
+      "ggsans-NormalItalic": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Italic.ttf",
+
+      "ggsans-Semibold": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams.ttf",
+
+      "ggsans-SemiboldItalic": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Italic.ttf",
+
+      "NotoSans-Bold": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Bold.ttf",
+
+      "NotoSans-ExtraBold": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Bold.ttf",
+
+      "NotoSans-Medium.ttf": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams.ttf",
+
+      "NotoSans-Normal": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams.ttf",
+
+      "NotoSans-NormalItalic": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams_Italic.ttf",
+
+      "NotoSans-Semibold": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams.ttf",
+
+      "SourceCodePro-Semibold": "https://github.com/CCShakeCat/Caviar-Dreams-Revenge/raw/refs/heads/main/CaviarDreams.ttf"
+
+  }
+
+}
+
